@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	font-family: Aldrich;
+}
+
+.navbar{
+    height: 50px;
+    background-color: #444444;
+    font-family: Aldrich;
+    text-align: center;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+
+.button:hover{
+    background-color: #ff4529;
+    color: black;
+}
+
+.button:active{
+    background-color: #d13b24;
+}
+
+.menu{
+    padding-top: 15px;
+}
